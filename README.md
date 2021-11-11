@@ -8,3 +8,11 @@ Project 2: Fall Break - You and your friends decide to take a road trip for fall
 Project 3: Identifier - This program will read a series of string tokens until end-of-file/EOF (Ctrl+D). It will determine the type of each token.
 
 Project 4: Team Roster - This program will store roster and rating information for a sports team. Coaches rate players during tryouts to ensure a balanced team.
+
+Project 5: Schwifty - This program reads a text file and makes it schwifty. The user supplies the filename to schwift and a string containing a sequence of the following characters to determine the schwiftiness via command-line arguments: 
+L - Left shift each character in a word
+R - Right shift each character in a word
+I - Shift the letters' and digits' value "up" by one (wraps if necessary) and keeps other characters as the same, 
+D - Shift the letters' and digits' value "down" by one (wraps if necessary) and leaves other characters as the same:
+
+
