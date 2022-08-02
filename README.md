@@ -3,7 +3,7 @@ Some of the projects that I have made while I have learnt C, C++, and python.
 
 Project 1: Identifier - This program will read a series of string tokens until end-of-file/EOF (Ctrl+D). It will determine the type of each token.
 
-Project 1: Team Roster - This program will store roster and rating information for a sports team. Coaches rate players during tryouts to ensure a balanced team.
+Project 2: Team Roster - This program will store roster and rating information for a sports team. Coaches rate players during tryouts to ensure a balanced team.
 
 Project 3: Schwifty - This program reads a text file and makes it schwifty. The user supplies the filename to schwift and a string containing a sequence of the following characters to determine the schwiftiness via command-line arguments: 
 L - Left shift each character in a word
